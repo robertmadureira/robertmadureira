@@ -11,12 +11,12 @@ My name is Robert. This is the space where I spend most of my time where, imagin
 
 #### 🚀 Technologies and Tools:
 
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/-Net-333333?style=flat&logo=.NET&logoColor=993399) 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=C%20Sharp&logoColor=993399)
+![.NET](https://img.shields.io/badge/-Net-333333?style=flat&logo=.NET&logoColor=239120) 
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=F7DF1E)
-![NodeJs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Node.js&logoColor=339933) 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB) <br>
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript&logoColor=1572B6) 
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=F80000) <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap&logoColor=7952B3)
