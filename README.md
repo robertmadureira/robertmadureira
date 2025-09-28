@@ -2,8 +2,7 @@
 
 My name is Robert. This is the space where I spend most of my time where, imagination and creativity become code.
 
-<div>    
-    <a href="https://www.instagram.com/robert_gcm/" target="_blank"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div>     
     <a href="https://www.linkedin.com/in/robert-madureira/" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
@@ -27,6 +26,7 @@ My name is Robert. This is the space where I spend most of my time where, imagin
 #### ⚙️ GitHub Analytics:
 
 <div>
-  <img height="160cm" width="" src="https://github-readme-stats.vercel.app/api?username=robertmadureira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmadureira&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="160cm" width="" src="https://github-readme-stats.vercel.app/api?username=robertmadureira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmadureira&layout=compact&langs_count=8&theme=default"/>
 </div>
+
