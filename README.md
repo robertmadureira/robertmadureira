@@ -26,7 +26,6 @@ My name is Robert. This is the space where I spend most of my time where, imagin
 #### ⚙️ GitHub Analytics:
 
 <div>
-  <img height="160cm" width="" src="https://github-readme-stats.vercel.app/api?username=robertmadureira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmadureira&layout=compact&langs_count=8&theme=default"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=robertmadureira&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertmadureira&layout=compact&langs_count=8&theme=default"/>
 </div>
-
